@@ -188,7 +188,10 @@ def main():
             poJson['Type'] = poType[i]
             poJsonList.append(poJson)
         result['orders: ' + i] = poJsonList
-    return result
+        
+    with open('result.jsonl', 'w') as f:
+        f.write(result)
+        f.close()
 
 if __name__ == "__main__":
     main()
