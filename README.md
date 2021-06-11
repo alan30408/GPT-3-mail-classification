@@ -1,6 +1,6 @@
 # GPT-3-classification
 
-This is the project which made by Jarvis team.
+This is the project which made by Jarvis team in GPT-3 Makeathon Competition by TUM.ai.
 
 we build the GPT-3 model to extract some certain information from unstructure data.
 1. PO: the product numbers
