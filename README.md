@@ -4,7 +4,7 @@ This is the project which made by Jarvis team.
 
 we build the GPT-3 model to extract some certain information from unstructure data.
 1. PO: the product numbers
-2. Action: action to the product
+2. Action: action to the products
 3. Type: Type of products
 4. Position: some data will mention some special position in certain product.
 
